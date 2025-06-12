@@ -82,7 +82,7 @@ setup(name="grimoire-elk",
           'urllib3',
           'PyMySQL',
           'pandas',
-          'numpy<=1.18.3',
+          'numpy',
           'geopy>=2.0.0',
           'statsmodels >= 0.9.0'
       ],
